@@ -9,5 +9,5 @@ sql
 excel
 tableau
 
-### projects
-Korean food demand
+# projects
+[Project 1 - Analysis The Most Efficient Coffee Machine](https://github.com/insannnn/machineCoffe)
