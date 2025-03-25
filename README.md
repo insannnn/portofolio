@@ -16,6 +16,6 @@ tableau
 2. Worked with a structured dataset, cleaning and preprocessing data for accurate analysis.
 3. Used statistical methods and visualizations to uncover trends in machine efficiency and identify key performance factors
 4. Provided data-backed recommendations on the best-performing coffee machines, helping businesses optimize operations
-## coffee machine performance by coffee type
+### coffee machine performance by coffee type
 [](https://github.com/insannnn/portofolio/blob/main/output.png)
 
