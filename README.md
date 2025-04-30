@@ -16,8 +16,6 @@ tableau
 2. Worked with a structured dataset, cleaning and preprocessing data for accurate analysis.
 3. Used statistical methods and visualizations to uncover trends in machine efficiency and identify key performance factors
 4. Provided data-backed recommendations on the best-performing coffee machines, helping businesses optimize operations
-### coffee machine performance by coffee type
-[](Images)
 
 [Project 2 - Forecasting Korean Food Demand In Indonesia Using Time-series](https://drive.google.com/file/d/1c3YoSeoO-AmnO0UQ3zK4HscuWPH-q3Fp/view)
 
