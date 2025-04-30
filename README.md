@@ -20,6 +20,7 @@ tableau
 [](Images)
 
 [Project 2 - Forecasting Korean Food Demand In Indonesia Using Time-series](https://drive.google.com/file/d/1c3YoSeoO-AmnO0UQ3zK4HscuWPH-q3Fp/view)
+
 This work, created as part of a campus assignment, utilized Google Trends data to analyze the rising interest in Korean food across Indonesia. The objective? To help businesses make informed decisions about where to open their Korean food store. 
 
 Using time-series forecasting and the Exponential Smoothing model, I predicted trends for the next 5 years. Moreover, as for visualization I used Matplotlib.
