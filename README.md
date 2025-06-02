@@ -10,7 +10,24 @@ excel
 tableau
 
 # projects
-[Project 1 - Analysis The Most Efficient Coffee Machine](https://github.com/insannnn/student_predictive_model)
+[Project 1 - Student Predictive Modeling](https://github.com/insannnn/student_prediction_modeling.git)
+
+## Overview:
+This project leverages machine learning to empower students with data-driven insights for selecting courses and lecturers that align with their academic goals. The core objective is to improve student outcomes by predicting how different instructor-course combinations might influence a student’s performance.
+
+## Key Features:
+
+### Personalized Instructor Recommendations:
+Students input their name, desired course, and target grade. The system predicts their expected performance with each available lecturer and recommends the most suitable instructor to help them achieve their academic goals.
+
+### Machine Learning Model:
+Utilized a Random Forest Regressor trained on historical student performance data, including grades, instructors, courses, and additional academic features. The model predicts the potential final grade for a student under different instructors.
+
+### Web Application Integration:
+Developed a user-friendly Django-based web application where students can interact with the system. The backend integrates with SQLAlchemy for efficient database querying and data manipulation.
+
+### Tools & Technologies:
+Python, scikit-learn, Pandas, Django, SQLAlchemy, HTML/CSS (for UI)
 
 [Project 2 - Analysis The Most Efficient Coffee Machine](https://github.com/insannnn/machineCoffe)
 1. Analyzed coffee machine performance across different stores to determine the most efficient model
